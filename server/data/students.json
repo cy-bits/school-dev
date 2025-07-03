@@ -1,9 +1,9 @@
 [
   {
     "id": "ce94cff9-fe71-43f1-adff-9b0d1dcf4192",
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john.doe@email.com",
+    "firstName": "Jon",
+    "lastName": "Snow",
+    "email": "john.snow@email.com",
     "phone": "+1-234-567-8901",
     "class": "Class 10",
     "address": "123 Main St, City, State",
@@ -11,7 +11,7 @@
     "parentPhone": "+1-234-567-8902",
     "enrollmentDate": "2025-07-03",
     "createdAt": "2025-07-03T17:30:50.820Z",
-    "updatedAt": "2025-07-03T17:30:50.820Z"
+    "updatedAt": "2025-07-03T17:59:20.742Z"
   },
   {
     "id": "877b5916-b73f-467f-8667-a08a6fca1c5a",
