@@ -26,5 +26,19 @@
     "enrollmentDate": "2025-07-03",
     "createdAt": "2025-07-03T17:30:50.820Z",
     "updatedAt": "2025-07-03T17:30:50.820Z"
+  },
+  {
+    "id": "8a571646-0bd4-4ed3-8414-b75e2a15e2a3",
+    "firstName": "Ashutosh",
+    "lastName": "Rajput",
+    "email": "jpeacsc@gmail.com",
+    "phone": "+919140271174",
+    "class": "Class 10",
+    "address": "Saurikh",
+    "parentName": "Santosh Kumar",
+    "parentPhone": "9935211799",
+    "enrollmentDate": "2025-07-03",
+    "createdAt": "2025-07-03T18:00:31.593Z",
+    "updatedAt": "2025-07-03T18:00:31.593Z"
   }
 ]
